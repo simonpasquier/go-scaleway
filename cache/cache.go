@@ -13,8 +13,8 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/lithammer/fuzzysearch/fuzzy"
 	"github.com/moul/anonuuid"
-	"github.com/renstrom/fuzzysearch/fuzzy"
 	"github.com/scaleway/go-scaleway/types"
 )
 
